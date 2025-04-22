@@ -17,6 +17,7 @@
   <depend>uva_iac_msgs</depend>
   <depend>raptor_dbw_msgs</depend>
   <depend>deep_orange_msgs</depend>
+  <depend>novatel_oem7_msgs</depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
